@@ -1,16 +1,66 @@
-# farmer_app
+# GoTool - Tool Rental Ecommerce Platform
 
-A new Flutter project.
+GoTool is an ecommerce platform for tool rentals, built with Flutter and Firebase.
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Mobile Application](#mobile-application)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## About
+
+GoTool is a tool rental platform that enables users to rent tools easily. The application is developed using Flutter for the frontend and Firebase for the backend, ensuring a seamless and reliable experience for users.
+
+## Features
+
+- Browse and search for tools
+- View tool details and rental options
+- User authentication and account management
+- Secure payment processing
+- Order history and tracking
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, make sure you have the following installed:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Firebase](https://firebase.google.com/docs/flutter/setup)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/tejaskolhe27/GoTool.git
+
+2. Navigate to Project directory: ```cd GoTool```
+3. Install dependencies: ```flutter pub get```
+
+### Mobile Application
+
+#### Android
+- Connect your Android device to your computer.
+- Run the application:
+```
+flutter run
+```
+#### iOS
+- Connect your iOS device to your computer.
+- Run the application:
+```
+flutter run
+```
+For more detailed instructions on running the app on specific platforms, refer to the Flutter documentation.
+
+### Usage
+Once the application is running on your device, you can explore the tool catalog, view details, and place rental orders.
