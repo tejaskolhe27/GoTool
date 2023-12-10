@@ -11,9 +11,6 @@ GoTool is an ecommerce platform for tool rentals, built with Flutter and Firebas
   - [Installation](#installation)
   - [Mobile Application](#mobile-application)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
